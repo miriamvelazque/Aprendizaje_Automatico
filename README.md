@@ -29,4 +29,4 @@ Aplicar técnicas de clasificación para segmentar usuarios según su sistema op
 
 Miriam Velazque — Estudiante de Ciencia de Datos e Inteligencia Artificial  
 Ubicación: Río Grande, Tierra del Fuego, Argentina  
-GitHub: [tu-usuario](https://github.com/tu-usuario)
+GitHub: [tu-usuario](https://github.com/miriamvelazque)
